@@ -1,7 +1,7 @@
 # Finding-the-Shortest-Path
 This program is designed to help users find the shortest path between any two buildings on Northeastern's Campus. Using an undirected graph representing 16 NEU buildings, Dijkstra's algorithm was implemented to achieve this functionality.
 
-The graph and program were designed so that none of the generated shortest paths will guide the user to walk on non-pedestrian areas. The graph represents 16 of Northeastern's buildings, with the edge values (distances between each building) being estimated using Google Maps.
+The graph and program were designed so that none of the generated shortest paths will guide the user to walk on non-pedestrian areas. The graph represents 16 of Northeastern's buildings, with the edge values (distances between each building) being estimated using Google Maps. The graph has a legend, which says that the black/underlined labels represent the building #'s; these numbers were based off a NEU campus map.
 
 
 

@@ -1,5 +1,4 @@
-//Brendan Li | NUID:001386816
-//EECE2560, HW6
+//Brendan Li 
 
 //include necessary libraries/define/using
 #include <iostream>
